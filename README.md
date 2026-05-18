@@ -7,3 +7,4 @@ Daily cybersecurity notes covering networking, tools, and core security concepts
 - IP Addressing (IPv4, IPv6, Subnetting)
 - Ports & Protocols
 - Network Devices
+- Network Traffic Analysis
