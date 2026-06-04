@@ -8,4 +8,5 @@ Daily cybersecurity notes covering networking, tools, and core security concepts
 - Ports & Protocols
 - Network Devices
 - Network Traffic Analysis
-- Email and Web Protocols 
+- Email and Web Protocols
+- CIA Triad
